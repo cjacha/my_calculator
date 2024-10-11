@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(30,33,36);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+input{
+    width: 120px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 2px;
+    border: none;
+    color: #fff;
+    background-color: #444;
+}
+
+.btn :hover {
+    cursor: pointer;
+    color: black;
+}
+
+.output {
+    text-align: end;
+    background-color: #333;
+    border: none;
+    width: 500px;
+}
